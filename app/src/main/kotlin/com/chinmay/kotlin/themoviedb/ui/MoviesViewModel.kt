@@ -1,4 +1,4 @@
-package com.chinmay.kotlin.themoviedb.ui.post
+package com.chinmay.kotlin.themoviedb.ui
 
 import androidx.lifecycle.MutableLiveData
 import com.chinmay.kotlin.themoviedb.base.BaseViewModel

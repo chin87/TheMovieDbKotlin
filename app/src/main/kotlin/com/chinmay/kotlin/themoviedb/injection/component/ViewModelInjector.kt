@@ -2,8 +2,8 @@ package com.chinmay.kotlin.themoviedb.injection.component
 
 import dagger.Component
 import com.chinmay.kotlin.themoviedb.injection.module.NetworkModule
-import com.chinmay.kotlin.themoviedb.ui.post.MoviesListViewModel
-import com.chinmay.kotlin.themoviedb.ui.post.MoviesViewModel
+import com.chinmay.kotlin.themoviedb.ui.MoviesListViewModel
+import com.chinmay.kotlin.themoviedb.ui.MoviesViewModel
 import javax.inject.Singleton
 
 /**

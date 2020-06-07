@@ -1,4 +1,4 @@
-package com.chinmay.kotlin.themoviedb.ui.post
+package com.chinmay.kotlin.themoviedb.ui
 
 import android.os.Bundle
 import androidx.annotation.StringRes

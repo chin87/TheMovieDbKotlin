@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.chinmay.kotlin.themoviedb.ui.post.MoviesViewModel" />
+            type="com.chinmay.kotlin.themoviedb.ui.MoviesViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
